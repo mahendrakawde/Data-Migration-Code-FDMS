@@ -1,0 +1,130 @@
+2015-12-03 10:33:55,245 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 2420 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 10:33:55,359 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 10:33:55 IST 2015]; root of context hierarchy
+2015-12-03 10:33:57,714 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 3.369 seconds (JVM running for 3.993)
+2015-12-03 10:33:57,714 [main] INFO   com.fdms.batch.data.migration.Batch - This is test text
+2015-12-03 10:33:57,715 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 10:33:55 IST 2015]; root of context hierarchy
+2015-12-03 11:03:06,900 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 11032 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:03:06,950 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:03:06 IST 2015]; root of context hierarchy
+2015-12-03 11:03:08,278 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 1.891 seconds (JVM running for 2.436)
+2015-12-03 11:03:08,913 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:03:09,101 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:03:09,112 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:03:06 IST 2015]; root of context hierarchy
+2015-12-03 11:03:46,414 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 13952 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:03:46,467 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:03:46 IST 2015]; root of context hierarchy
+2015-12-03 11:03:47,746 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 2.017 seconds (JVM running for 2.688)
+2015-12-03 11:03:48,147 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:03:48,255 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:03:48,266 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:03:46 IST 2015]; root of context hierarchy
+2015-12-03 11:05:02,588 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 13204 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:05:02,629 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:05:02 IST 2015]; root of context hierarchy
+2015-12-03 11:05:03,987 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 1.872 seconds (JVM running for 2.368)
+2015-12-03 11:05:04,444 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:05:04,577 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:05:04,583 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:05:02 IST 2015]; root of context hierarchy
+2015-12-03 11:06:13,243 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 7820 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:06:13,289 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:06:13 IST 2015]; root of context hierarchy
+2015-12-03 11:06:14,847 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 2.12 seconds (JVM running for 2.675)
+2015-12-03 11:06:15,293 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:06:15,450 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:06:15,463 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:06:13 IST 2015]; root of context hierarchy
+2015-12-03 11:08:05,222 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 7384 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:08:05,269 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:08:05 IST 2015]; root of context hierarchy
+2015-12-03 11:08:06,825 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 2.08 seconds (JVM running for 2.577)
+2015-12-03 11:08:07,235 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:08:07,329 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:08:07,341 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:08:05 IST 2015]; root of context hierarchy
+2015-12-03 11:08:55,324 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 14084 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:08:55,387 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:08:55 IST 2015]; root of context hierarchy
+2015-12-03 11:08:56,626 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 1.77 seconds (JVM running for 2.576)
+2015-12-03 11:08:57,061 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:08:57,202 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:08:57,224 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:08:55 IST 2015]; root of context hierarchy
+2015-12-03 11:10:13,635 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 11880 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:10:13,682 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:10:13 IST 2015]; root of context hierarchy
+2015-12-03 11:10:15,387 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 2.22 seconds (JVM running for 2.761)
+2015-12-03 11:10:15,809 [main] INFO   o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2015-12-03 11:10:15,934 [main] INFO   o.s.j.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2015-12-03 11:10:15,938 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:10:13 IST 2015]; root of context hierarchy
+2015-12-03 11:19:33,731 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 3020 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:19:33,794 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:19:33 IST 2015]; root of context hierarchy
+2015-12-03 11:19:35,082 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 1.834 seconds (JVM running for 2.319)
+2015-12-03 11:19:35,673 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:19:33 IST 2015]; root of context hierarchy
+2015-12-03 11:22:47,180 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 13492 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:22:47,242 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:22:47 IST 2015]; root of context hierarchy
+2015-12-03 11:22:48,652 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 1.954 seconds (JVM running for 2.515)
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - tableSchema	tableName	tableRows
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	CallCounts	5114
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	ClientLog	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	Log	239
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	PaymentData	652
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	PaymentData0210_0211	1028
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	TableAnalysis	1632
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	TableListing	284
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	TableTest	2
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	eregister_background_themes	21
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	presentation_images	33
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	presentation_theme	3
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	service_screen_themes	11
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	smsscheduling	24
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	smssstoreproc	6
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	speeddata	63
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdms_commondata	zipcodedata	42500
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	creditcard	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	eregister	4
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	eregister_image_mapping	32
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	gb_entries	136
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	smsttvrecipient	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - fdmsus_share	uploaded_files	8
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - reportmetrics	transactionlog	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmscommondata	smsscheduling	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmscommondata	smssstoreproc	6
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmscommondata	speeddata	63
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmscommondata	zipcodedata	42500
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	actionclasslog	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	admin	1
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	aldorinfo	1
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	alert	2
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companies	301
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companyoptions	34
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companyoptionvalues	4514
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	config	8
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	configvalues	259
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	dblog	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	duplicateloginlog	0
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	locationoptions	2
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	locationoptionvalues	4
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_operation	52
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_role	15
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_role_operation_xref	135
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_rolesmembership	21460
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	userlocations	16336
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	userlog	857729
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	usersecurity	2107
+2015-12-03 11:22:49,884 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	uservacations	0
+2015-12-03 11:22:49,904 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:22:47 IST 2015]; root of context hierarchy
+2015-12-03 11:26:12,003 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Starting FDMSDataMigrationBatchApplication on SSIPC2 with PID 1940 (started by ssi2 in E:\Mahendra\FDMS\Files\Data Migration\DataMigrationCode\data.migration.process)
+2015-12-03 11:26:12,050 [main] INFO   o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:26:12 IST 2015]; root of context hierarchy
+2015-12-03 11:26:14,076 [main] INFO   c.f.b.d.m.FDMSDataMigrationBatchApplication - Started FDMSDataMigrationBatchApplication in 2.571 seconds (JVM running for 3.097)
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - tableSchema	tableName	tableRows
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	actionclasslog	0
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	admin	1
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	aldorinfo	1
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	alert	2
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companies	301
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companyoptions	34
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	companyoptionvalues	4514
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	config	8
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	configvalues	259
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	dblog	0
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	duplicateloginlog	0
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	locationoptions	2
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	locationoptionvalues	4
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_operation	52
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_role	15
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_role_operation_xref	135
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	ums_rolesmembership	21460
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	userlocations	16336
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	userlog	857729
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	usersecurity	2107
+2015-12-03 11:26:14,613 [main] INFO   c.f.b.data.migration.RowCountBatch - webfdmsusers	uservacations	0
+2015-12-03 11:26:14,622 [Thread-1] INFO   o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6c9f5c0d: startup date [Thu Dec 03 11:26:12 IST 2015]; root of context hierarchy
